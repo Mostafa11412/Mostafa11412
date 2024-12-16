@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa Saad</h1>
 <h3 align="center">computer science graduate, junior Flutter Developer and cybersecurity trainee ... seeking to gain more experience in both fields.</h3>
 
-- 🔭 I’m currently working on **My graduation project**
 
-- 🌱 I’m currently learning **Flutter, Firebase, SqlLite**
+- 🌱 I’m currently enhancing my experience **Flutter**
 
 - 👨‍💻 All of my projects are available on my GitHub Profile at [https://github.com/Mostafa11412?tab=repositories](https://github.com/Mostafa11412?tab=repositories)
 
